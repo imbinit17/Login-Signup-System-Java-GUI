@@ -1,4 +1,8 @@
 bot pass bot@gmail.com 12345 $BOT$
-imbinit17 binit@java dev.imbinit17@gmail.com 9472743345 $Binit Ranjan Das$
-abhishek abhi123 abhishek@gmail.com 9031250721 $Abhishek Raj$
+imbinit17 binit@java dev.imbinit17@gmail.com 1234567890 $Binit Ranjan Das$
+abhishek abhi123 abhishek@gmail.com 1320456987 $Abhishek Raj$
 alex_hales alex123 alex@ecb.in 69691245 $Alex Hales$
+josb josb josb2ecb.in 1546546 $Jos Buttler$
+benst ben benst@ecb.in 644648 $Ben Stokes$
+mark qwerty markwodd@ecb.in 545455745 $Mark wood$
+smithsteve qwerty stevee@gmail.ca.in 5646848 $Steve Smith$

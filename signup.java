@@ -199,7 +199,7 @@ public class signup implements ActionListener{
             content += kb.nextLine() + "\n" ;
         }
 
-        content += username + " " + pass1 + " " + email + " " + mobile +"\n"+name ;
+        content += username + " " + pass1 + " " + email + " " + mobile +" "+name+"\n" ;
 
         try (FileWriter wr = new FileWriter("users.txt")) {
             try {
